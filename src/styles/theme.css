@@ -1,0 +1,10 @@
+:root {
+  /* 站点主题颜色，可覆盖 */
+  --theme-color: #1890ff;
+  --theme-color-rgb: 0, 0, 0;
+  --theme-color-light: #40a9ff;
+  --theme-color-active: #096dd9;
+  --theme-color-bg: #e6f8fe;
+  --theme-color-grey: #f0f2f5;
+  --theme-color-text: rgba(0, 0, 0, 0.75);
+}
