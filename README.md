@@ -1,5 +1,5 @@
 ## hel-antd
-基于 hel-tpl-remote-react-comp-ts 改造的远程 antd 模块，此版本基于[4.23.4](https://ant.design/components/icon-cn/)构建
+基于 hel-tpl-remote-react-comp-ts 改造的远程 antd 模块，此版本基于[4.23.4](https://ant.design/components/icon-cn/)构建，使用hel-antd[在线示例](https://codesandbox.io/s/hel-demo-use-antd-tjy3ep?file=/src/App.js:27-482)
 
 ## 发布
 
