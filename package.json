@@ -6,10 +6,10 @@
   "module": "hel_proxy_es/entry.js",
   "types": "lib/entrance/libTypes.ts",
   "unpkg": "hel_dist/entry.js",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "dependencies": {
     "antd": "4.23.4",
-    "hel-lib-proxy": "^3.9.3",
+    "hel-lib-proxy": "^4.5.1",
     "react": "^16.14.0",
     "react-app-polyfill": "^3.0.0",
     "react-dom": "^16.14.0",
